@@ -1,0 +1,9 @@
+{
+  "name": "nederlands",
+  "version": "0.1.0",
+  "description": "Nederlandse programmeertaal",
+  "main": "transpile.js",
+  "repository": "git@github.com:idiidk/nederlands.git",
+  "author": "idiidk",
+  "license": "MIT"
+}
